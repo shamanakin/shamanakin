@@ -13,7 +13,7 @@ From CA psychotherapy couch to code console—I'm an AMFT (~280 hours from full 
 - **BrightEyedTherapist**: Open-source AI prompts for ACT/CBT session notes, burnout trackers, and therapy recaps. Built with Claude/Gemini integrations.  
   [Repo](https://github.com/shamanakin/BrightEyedTherapist) | Fork & contribute!
 
-- **Outfox-Frontend-Test** *(Evolving)*: Frontend experiments turning into a clinician dashboard UI (React/HTML). Testing vibe-aligned UX for therapy apps.  
+- **Outfox-Frontend-Test**: Frontend mockup created for a friend who runs Outfox Online.  
   [Repo](https://github.com/shamanakin/Outfox-Frontend-Test)
 
 - **Upcoming Ships**: RoboShaman AI Coaching app—personalized, agentic guidance for pros. Next: No-code prompt library for Cursor users. Watch for #BuildInPublic threads on X.
