@@ -1,6 +1,6 @@
 <div align="center">
 
-# Matthew Heacock
+# Matthew Heake
 
 ### Psychotherapist. AI Researcher. Systems Designer.
 
