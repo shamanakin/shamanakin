@@ -12,7 +12,7 @@
 
 ---
 
-I'm an associate licensed therapist (~280 clinical hours from LMFT) who discovered that building software and systems scratches the same itch as psychological problem solving. Passoinate about mapping thinking and behavior and finding elegant solutions in the emergent patterns.
+I'm an associate licensed therapist (~280 clinical hours from LMFT) who discovered that building software and systems scratches the same itch as psychological problem solving. Passionate about mapping thinking and behavior and finding elegant solutions in the emergent patterns.
 
 Now I split my time between clinical practice, shipping indie SaaS, and researching AI agent architectures. Everything I build sits at the intersection of **mental health, AI, and human systems**.
 
