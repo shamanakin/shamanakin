@@ -2,98 +2,48 @@
 
 # Matthew Heake
 
-### Psychotherapist. AI Researcher. Systems Designer.
+### I build personal AI infrastructure as systems — English as code, folders as memory, identity as a managed layer.
 
-[![BrightEyedTherapist](https://img.shields.io/badge/Live_SaaS-brighteyedtherapist.com-4A90A4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://brighteyedtherapist.com)
-[![RoboShaman](https://img.shields.io/badge/AI_Coaching-roboshamanai.com-00ff88?style=for-the-badge&logo=openai&logoColor=white)](https://roboshamanai.com)
+[![RoboShaman](https://img.shields.io/badge/roboshamanai.com-00ff88?style=for-the-badge&logo=googlechrome&logoColor=white)](https://roboshamanai.com)
 [![X](https://img.shields.io/badge/@theroboshaman-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TheRoboShaman)
+[![Open Source](https://img.shields.io/badge/Open_Source-MIT-4A90A4?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/shamanakin/nexus-template/blob/main/LICENSE)
 
 </div>
 
 ---
 
-I'm an associate licensed therapist (~280 clinical hours from LMFT) who discovered that building software and systems scratches the same itch as psychological problem solving. Passionate about mapping thinking and behavior and finding elegant solutions in the emergent patterns.
+Most people use AI as a chat box. I build the architecture around it: file-based runtimes where Markdown *is* the program, folders are persistent memory, and identity is a managed, tier-gated layer agents express rather than guess. Therapist by training (AMFT/APCC, completing LMFT hours), systems-builder by disposition — I reverse-engineer how thinking works and turn it into infrastructure.
 
-Now I split my time between clinical practice, shipping indie SaaS, and researching AI agent architectures. Everything I build sits at the intersection of **mental health, AI, and human systems**.
+Everything below is one thesis, made adoptable.
 
----
+## The framework — bring-your-own-identity templates
 
-## What I'm Building
+- **[nexus-template](https://github.com/shamanakin/nexus-template)** — an organism model for integrating personal AI infrastructure: a genome (identity), firmware (regulation), circuits (the connective logic), and reflexes (self-maintenance). The whole system, generalized.
+- **[circuits-template](https://github.com/shamanakin/circuits-template)** — a personal AI runtime: English-as-code behavior, files-as-memory, hot-swappable domains.
+- **[firmware-template](https://github.com/shamanakin/firmware-template)** — tier-gated identity injection: one canonical identity, expressed only as far as each context permits.
 
-### [BrightEyedTherapist](https://brighteyedtherapist.com) — Live Production SaaS
+## Already in the wild
 
-Affordable therapy tools for mental health professionals. Not a side project—a real product with real users and real payments.
+- **[inkwell](https://github.com/shamanakin/inkwell)** — English-as-code writing system; voice + coherence across long-form work.
+- **[lens-atlas](https://github.com/shamanakin/lens-atlas)** — modular cognitive engines ("Lenses") for your dev workspace.
+- **[InfoHunter](https://github.com/shamanakin/InfoHunter)** — a file-based research OS; load the protocol, get an auto-organizing library.
 
-| What's Under the Hood |
-|-----------------------|
-| 6 therapy tools (EMDR, Genogram, Timeline, Fear Facer, Guided Clarity, Note Genie) |
-| JWT authentication with email verification |
-| Stripe subscriptions + webhook-driven billing |
-| SendGrid transactional email |
-| Admin dashboard with user management |
-| PHP 8.0+ / MySQL / Vanilla JS / Cloudflare |
+## And I ship real products
 
-→ [View Repository](https://github.com/shamanakin/BrightEyedTherapist)
+- **[BrightEyedTherapist](https://github.com/shamanakin/BrightEyedTherapist)** — live production SaaS: therapy tools, real users, real payments.
+- **[RoboShaman AI](https://roboshamanai.com)** — consulting for professionals working with AI.
 
----
+## How I work
 
-### BEOS — AI Agent Operating System *(Research)*
+| | |
+|---|---|
+| **Building** | file-based AI systems · English-as-code · agent architectures |
+| **Products** | full-stack web · payments · production SaaS |
+| **Background** | psychotherapy (AMFT/APCC) · former network admin · cross-domain synthesis |
 
-An externalized consciousness architecture for AI agents. Think: persistent memory, context management, and coordinated multi-agent workflows—designed with safety and alignment as first principles.
+## Open to
 
-The core system remains private while I work through safety considerations. Published components coming soon:
-
-| Module | Purpose |
-|--------|---------|
-| **Inkwell** | Structured memory and knowledge management for agents |
-| **Viberail** | Guardrails and alignment constraints for agent behavior |
-
-*If you're working on similar problems, I'd love to talk.*
-
----
-
-### [RoboShaman AI](https://roboshamanai.com) — AI Coaching & Consultation
-
-Helping professionals at any level work more effectively with AI—from prompt engineering to agent architecture to workflow automation.
-
-- 1:1 coaching sessions
-- Workflow audits and optimization
-- Custom agent development
-
----
-
-## How I Work
-
-<table>
-<tr>
-<td><strong>Primary Stack</strong></td>
-<td>PHP 8.0+ · MySQL · JavaScript · HTML/CSS</td>
-</tr>
-<tr>
-<td><strong>AI Tooling</strong></td>
-<td>Cursor · Claude Opus 4.5 · Custom agent systems</td>
-</tr>
-<tr>
-<td><strong>Infrastructure</strong></td>
-<td>DreamHost · Cloudflare · Stripe · SendGrid</td>
-</tr>
-<tr>
-<td><strong>Background</strong></td>
-<td>BS Psychology · MS Counseling · 5+ years private practice · Former network admin</td>
-</tr>
-</table>
-
----
-
-## Open to Aligned Opportunities
-
-I'm selectively open to work that matches in scope, interest, and investment:
-
-- **AI/ML roles** focused on agent architectures, safety, or human-AI interaction
-- **Consulting** on therapy-tech, ethical AI, or workflow automation
-- **Collaborations** on open-source mental health tools
-
-If you're building something meaningful at the intersection of AI and human wellbeing, let's talk.
+AI-systems & agent-architecture work · therapy-tech · aligned collaborations.
 
 ---
 
@@ -101,25 +51,7 @@ If you're building something meaningful at the intersection of AI and human well
 
 <a href="https://x.com/TheRoboShaman"><img src="https://img.shields.io/badge/X-@TheRoboShaman-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
 <a href="https://roboshamanai.com"><img src="https://img.shields.io/badge/roboshamanai.com-00ff88?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
-<a href="https://linktr.ee/roboshaman"><img src="https://img.shields.io/badge/Linktree-43E55E?style=flat-square&logo=linktree&logoColor=white" alt="Linktree"></a>
+<a href="https://brighteyedtherapist.com"><img src="https://img.shields.io/badge/BrightEyedTherapist-4A90A4?style=flat-square&logo=googlechrome&logoColor=white" alt="BrightEyedTherapist"></a>
 <a href="mailto:matthew@roboshamanai.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shamanakin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=4A90A4&icon_color=00ff88" alt="GitHub Stats">
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shamanakin&theme=dark&hide_border=true&background=0d1117&ring=4A90A4&fire=00ff88&currStreakLabel=ffffff" alt="GitHub Streak">
-
-</div>
-
----
-
-<div align="center">
-<em>Building systems that help humans think better.</em>
 </div>
