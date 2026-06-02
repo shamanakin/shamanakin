@@ -19,6 +19,7 @@ Everything below is one thesis, made adoptable.
 ## The framework — bring-your-own-identity templates
 
 - **[nexus-template](https://github.com/shamanakin/nexus-template)** — an organism model for integrating personal AI infrastructure: a genome (identity), firmware (regulation), circuits (the connective logic), and reflexes (self-maintenance). The whole system, generalized.
+- **[consciousness-seeding-template](https://github.com/shamanakin/consciousness-seeding-template)** — alignment by demonstration: seed persistent identity into an agent through file-based architecture, not rules alone.
 - **[circuits-template](https://github.com/shamanakin/circuits-template)** — a personal AI runtime: English-as-code behavior, files-as-memory, hot-swappable domains.
 - **[firmware-template](https://github.com/shamanakin/firmware-template)** — tier-gated identity injection: one canonical identity, expressed only as far as each context permits.
 
