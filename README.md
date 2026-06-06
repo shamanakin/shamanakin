@@ -32,6 +32,7 @@ Everything below is one thesis, made adoptable.
 ## And I ship real products
 
 - **[BrightEyedTherapist](https://github.com/shamanakin/BrightEyedTherapist)** — live production SaaS: therapy tools, real users, real payments.
+- **[brighteyedtherapy.com](https://github.com/shamanakin/brighteyedtherapy.com)** — my private-practice website, hand-built: Next.js 14 static export, JSON-LD structured data, WCAG AA. ([live](https://brighteyedtherapy.com))
 - **[RoboShaman AI](https://roboshamanai.com)** — consulting for professionals working with AI.
 
 ## How I work
